@@ -13,7 +13,7 @@
   	<dependency>
    		<groupId>com.alibaba</groupId>
    		<artifactId>dubbo</artifactId>
-   		<version>2.6.0</version>
+   		<version>2.6.9</version>
     </dependency>
     
     <!-- 加上这句话，否则报错：Caused by: java.lang.ClassNotFoundException: org.I0Itec.zkclient.IZkStateListener -->
